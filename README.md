@@ -1,3 +1,22 @@
+## 使用流程
+
+
+
+## 实时调试说明
+### 第一步：安装依赖node>18.16.0
+
+### 第二步：打包一下当前的dist文件夹
+- 在chrome中引入这个插件
+
+### 第三步：启动实时调试模式：
+
+- npm run dev
+
+### 第四步：如果点击刷新看到文字更新，表示这里内容已经实时刷新
+- 更新当前的Popup.tsx文件更新
+
+
+
 <div align="center">
 <img src="public/icon-128.png" alt="logo"/>
 <h1> Minimalist Chrome/Firefox Extension Boilerplate with<br/>React + Vite + TypeScript + TailwindCSS</h1>
